@@ -1,4 +1,4 @@
-""""
+""" "
 2.1 Python as a Calculator
 
 print(14 + 5)
@@ -72,11 +72,11 @@ print("Python\tProgramming")
 
 if 2 == 2:
     print("Two is equal to two")
-    
+
 if 5 > 2:
     print("Five is greater")
-    
-    
+
+
 age = 30
 print(f"Next year you will be {age+1}.")
 

@@ -55,5 +55,10 @@ Print text in 3 lines using \n
 Print tab space between words
 Print: He said "Hello"
 
+# numbers = [1, 2, 3, 4, 5]
+# print(numbers)
+
+
+print("1", "2", "3", end="\n")
 
 """
